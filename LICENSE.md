@@ -1,4 +1,4 @@
-# 
+# Léger 3D Path Planning AI extensions. Avec optimisation de modèles et vision par ordinateur — optimisé pour des performances maximales.
 
 
 
